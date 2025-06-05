@@ -12,7 +12,7 @@
   "type": "commonjs",
   "dependencies": {
     "express": "^5.1.0",
-    "joi": "^13.1.0",
+    "joi": "^13.7.0",
     "nodemon": "^3.1.10"
   }
 }
